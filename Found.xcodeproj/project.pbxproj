@@ -428,6 +428,7 @@
 				F1665A4F1A1EA24600A1519D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F1665A501A1EA24600A1519D /* Build configuration list for PBXNativeTarget "FoundTests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +437,7 @@
 				F1665A521A1EA24600A1519D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
